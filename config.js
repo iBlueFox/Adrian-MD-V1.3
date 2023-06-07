@@ -21,13 +21,13 @@ global.namabot = 'Adrian-MD V1.3'
 global.namaowner = 'Arxzy'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.nomerowner = '62 895-1308-1052'
-global.premium = ['6289513081052']
+global.owner = ['6281384341152']
+global.nomerowner = '62 813-8434-1152'
+global.premium = ['6281384341152']
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 Fandyck\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'Slebew'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -48,7 +48,7 @@ global.mess = {
 //—————「 Set Limit 」—————//
 global.limitawal = {
     premium: "Infinity",
-    free: 50
+    free: 100
 }
 
 //—————「 Set Image 」—————//
